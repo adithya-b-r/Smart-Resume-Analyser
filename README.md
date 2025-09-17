@@ -26,7 +26,7 @@ This project is a Resume Analyzer created to help candidates improve their resum
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/adithya-b-r/smart-resume-analyser.git](https://github.com/adithya-b-r/smart-resume-analyser.git)
+    git clone https://github.com/adithya-b-r/smart-resume-analyser.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
