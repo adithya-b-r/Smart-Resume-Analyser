@@ -1,6 +1,6 @@
 # Smart Resume Analyser
 
-This project is a Resume Analyzer created to help candidates improve their resumes. It was developed by a student at Shree Devi Institute of technology to make it easier to share files within the college community.
+A resume analyzer that helps candidates improve their resumes by providing scores, skill recommendations, and course suggestions.
 
 ## Features
 
